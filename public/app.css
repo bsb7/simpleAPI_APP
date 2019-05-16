@@ -1,0 +1,22 @@
+body{
+	background: teal;
+	color: white;
+}
+button{
+	outline: none;
+	border: none;
+}
+h1{
+	color: gold;
+}
+li{
+	margin: 30px auto;
+	text-align: center;
+	text-decoration-style: none;
+	list-style: none;
+}
+a{
+	text-decoration-line: none;
+	font-size: 25px;
+	color: white;
+}
